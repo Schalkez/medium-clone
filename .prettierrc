@@ -1,0 +1,11 @@
+{
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "all",
+  "printWidth": 80,
+  "endOfLine":"auto",
+  "[typescript]": {
+    "editor.formatOnSave": true
+  },
+  "editor.formatOnSave": true
+}
